@@ -50,3 +50,7 @@ The app is not directed at children under 13. The app does not knowingly collect
 ## Changes to This Policy
 
 This policy may be updated as the app evolves. The "Last updated" date at the top reflects the most recent change.
+
+## Contact
+
+For questions about this policy, contact: TurboInnovations@outlook.com
